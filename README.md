@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django Framework**
 
-- 💬 Ask me about **Python, JavaSript, Django, Flask, FastAPI, MongoDB, Docker, Jira, MySQL, AWS, Git, Github**
+- 💬 Ask me about **Python, JavaScript, Django, Flask, FastAPI, MongoDB, Docker, Jira, MySQL, AWS, Git, Github**
 
 - 📫 How to reach me **vinayomkar9@gmail.com**
 
@@ -25,6 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astickdutta&show_icons=true&locale=en" alt="astickdutta" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astickdutta&" alt="astickdutta" /></p>
 
-
-# 📊 Leetcode Stats:
-![](https://leetcard.jacoblin.cool/astickdutta19?theme=dark)
